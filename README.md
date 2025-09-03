@@ -70,4 +70,15 @@ A game **combo automation tool** written in AutoHotkey v2, allowing custom skill
 ## 🌐 作者 (Author)
 
 - 👤 Sid  
-- 🔗 GitHub: [Sid-1996](https://github.com/Sid-1996)
+- 🔗 GitHub: [Sid-1996](https://github.com/Sid-1996)   
+
+## ☕ 支持作者  
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/K3K11KMXOL)  
+
+[🔗 Support This Project](https://www.paypal.com/ncp/payment/4YCFVARX3ADGW](https://www.paypal.com/ncp/payment/GJS4D5VTSVWG4))  
+
+[💚 綠界科技贊助（支持作者）](https://p.ecpay.com.tw/E0E3A)  
+
+[![Donate via ECPay](https://payment.ecpay.com.tw/Upload/QRCode/201901/QRCode_21c4c069-547f-4115-9f8d-2c050273f028.png)](https://p.ecpay.com.tw/E0E3A)  
+感謝每一位支持者！💖
